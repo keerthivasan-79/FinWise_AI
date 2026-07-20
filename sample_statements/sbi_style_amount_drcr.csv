@@ -1,0 +1,11 @@
+Txn Date,Description,Amount,Dr/Cr,Balance
+01/07/2026,Salary from ABC Pvt Ltd,52000,CR,52000
+02/07/2026,UPI to Swiggy,840,DR,51160
+04/07/2026,ATM cash withdrawal,3000,DR,48160
+05/07/2026,Electricity bill payment,1860,DR,46300
+08/07/2026,Refund from Flipkart,1299,CR,47599
+10/07/2026,Petrol pump payment,2450,DR,45149
+14/07/2026,Netflix subscription,649,DR,44500
+16/07/2026,College fee payment,8500,DR,36000
+20/07/2026,Interest credit,220,CR,36220
+23/07/2026,Restaurant payment,1750,DR,34470

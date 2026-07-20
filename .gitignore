@@ -1,0 +1,11 @@
+.env
+instance/
+backend/uploads/
+backend/reports/
+reports/
+.venv/
+.runtime_packages/
+frontend/node_modules/
+frontend/dist/
+__pycache__/
+*.pyc

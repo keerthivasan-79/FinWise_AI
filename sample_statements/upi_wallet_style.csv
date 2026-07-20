@@ -1,0 +1,11 @@
+Transaction Date,Details,Transaction Type,Transaction Amount,Balance
+01/07/2026,Wallet top up from bank,Credit,5000,5000
+02/07/2026,PhonePe payment to cafe,Debit,320,4680
+03/07/2026,Metro QR ticket,Debit,60,4620
+04/07/2026,Received from friend,Credit,1200,5820
+05/07/2026,Mobile recharge Airtel,Debit,299,5521
+07/07/2026,Movie snacks,Debit,450,5071
+09/07/2026,Uber auto payment,Debit,180,4891
+12/07/2026,Swiggy order,Debit,560,4331
+14/07/2026,Cashback received,Credit,75,4406
+16/07/2026,Medicine order,Debit,640,3766

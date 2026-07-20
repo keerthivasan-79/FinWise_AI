@@ -1,0 +1,11 @@
+flask
+flask-cors
+mysql-connector-python
+PyJWT
+Werkzeug
+openpyxl
+reportlab
+
+xlrd
+
+pdfplumber
