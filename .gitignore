@@ -2,6 +2,8 @@
 instance/
 backend/uploads/
 backend/reports/
+backend/.testdeps/*
+!backend/.testdeps/.keep
 reports/
 .venv/
 .runtime_packages/
