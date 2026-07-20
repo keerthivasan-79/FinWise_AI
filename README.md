@@ -60,6 +60,7 @@ Then run `.\run.cmd` again.
 python -m unittest discover -s backend/tests
 cd frontend
 npm run build
+npm test
 ```
 
 Before any real deployment, set strong values for `DB_PASSWORD`, `JWT_SECRET`, and `COOKIE_SECURE=true`.
