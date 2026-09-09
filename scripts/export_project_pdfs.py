@@ -22,7 +22,6 @@ OUTPUT = ROOT / "output" / "pdf"
 DOCUMENTS = [
     ("PROJECT_REPORT.md", "FinWise AI Project Report", "FinWise_AI_Project_Report.pdf"),
     ("VIVA_NOTES.md", "FinWise AI Viva Notes", "FinWise_AI_Viva_Notes.pdf"),
-    ("GUIDE_INTERVIEW_QUESTIONS.md", "FinWise AI Guide and Interview Questions", "FinWise_AI_Guide_Interview_Questions.pdf"),
     ("DEMO_CHECKLIST.md", "FinWise AI Demo Checklist", "FinWise_AI_Demo_Checklist.pdf"),
 ]
 
